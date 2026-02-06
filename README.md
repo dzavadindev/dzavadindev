@@ -2,7 +2,8 @@
 
 I’m into embedded systems — building things that talk to sensors and to each other, and run close to the metal. I also low-level programming and Linux, so I enjoy configuring my system amd coming up with my own tooling tooling 
 
-- 🔧 Interests: Embedded, IoT, systems programming, Linux, 
+- 🔧 Interests: Embedded, IoT, Linux
+- 📖 Want to learn/ Learning: Graphics programming, Systems programming, Multiplatform Desktop UIs 
 - 🎓 Occupation: Student at Saxion Hogeschool, Deventer   
 - 🌍 Based in: Netherlands (CET)
 
