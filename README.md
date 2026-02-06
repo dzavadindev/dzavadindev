@@ -1,16 +1,17 @@
-## Hi there 👋
+# Goede dag, ik heet Dan 👋
 
-<!--
-**dzavadindev/dzavadindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m into embedded systems — building things that talk to sensors and to each other, and run close to the metal. I also low-level programming and Linux, so I enjoy configuring my system amd coming up with my own tooling tooling 
 
-Here are some ideas to get you started:
+- 🔧 Interests: Embedded, IoT, systems programming, Linux, 
+- 🎓 Occupation: Student at Saxion Hogeschool, Deventer   
+- 🌍 Based in: Netherlands (CET)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- 📟 Firmware for pre-built and custom boards
+- 🦀 Rust experiments for embedded and personal tooling
+- 🎮 Dabbling into Godot time to time
+- 💻 My ever-growing dotfiles and Quickshell shell
+
+## Find me
+- [LinkedIn](https://www.linkedin.com/in/daniil-zavadin/)
+- Email: daniil.zavadin@gmail.com
